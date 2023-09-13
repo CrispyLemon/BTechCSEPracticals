@@ -5,7 +5,7 @@ def listSumUp():
     for i in range(0, len(x)):
         sum += int(x[i])
         temp.append(sum)
-    print(temp)
+    return temp
 
-listSumUp()
+print(listSumUp())
         
