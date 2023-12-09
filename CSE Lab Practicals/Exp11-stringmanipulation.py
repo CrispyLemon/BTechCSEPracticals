@@ -27,4 +27,5 @@ print(str3.split(" "))
 
 #strip
 str5 = "   Hello World   "
+print(str5.strip())
 
